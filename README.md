@@ -253,17 +253,10 @@ Purple Arcade does not require external electronic hardware, sensors, microcontr
 
 ## Video
 
-[Add your demo video link here]
+https://drive.google.com/file/d/1yUZ6Z4tHQkD6PpNGN0f-NfHlsisMmKO2/view?usp=drivesdk
 
 *The demonstration video shows the Purple Arcade homepage, game selection, gameplay, scoring system, and replay functionality.*
 
-## Additional Demos
-
-* Live Demo: [Add link]
-* GitHub Repository: [Add link]
-* Project Presentation: [Add link]
-
----
 
 # Team Contributions
 

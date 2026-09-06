@@ -2,20 +2,19 @@
 
 
 
-# [Project Name] 🎯
+# Purple Arcade🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:Purple bit logic
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Sona Sobi - viswajyothi college of engineering and technology 
+- Member 2: Diya Subhash - Viswajyothi college of engineering and technology 
 
-### Project Description
-[2-3 lines about what your project does]
+### Project Description 
+Purple Arcade is a deliberately useless yet entertaining arcade project built to turn boredom into pointless fun.
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
